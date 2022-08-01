@@ -1,0 +1,26 @@
+
+
+1.
+
+a) Elements - Are defined by a start tag, some content, and an end tag. e.g <html></html> defines the start and end of the whole html document.
+
+
+b) Attributes - Provide additional information about elements.  e.g <href> <a> specifies the url to be redirected to once clicked
+
+
+
+
+c) Selectors - 
+
+
+
+d) Semantic elements -elements of code that uses words to clearly represent what an element contains, e.g <article> describes an article
+
+
+
+e) Web accesibility - 
+
+
+
+
+f) Web server - software and hardware that uses protocols like HTTP to respond to client requests made over the World wide web.
